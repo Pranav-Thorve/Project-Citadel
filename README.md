@@ -33,9 +33,7 @@ The core challenge is to allow cloud-native services to securely query and proce
 
 ## 🏛️ Architectural Diagram
 
-*(You would embed the diagram image here in your actual repository)*
 
-![Project Citadel Architecture Diagram](https://storage.googleapis.com/gemini-prod-us-west1-0000/images/611a8779-195c-4f11-ae93-fd43c46e3e55.png)
 
 ---
 
